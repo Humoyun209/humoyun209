@@ -12,5 +12,5 @@
 
 ### Follow me
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/h.ahmedov209/)
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)(https://t.me/Humoyun209)
-![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github)(https://github.com/Humoyun209)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Humoyun209)
+[![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github)](https://github.com/Humoyun209)
