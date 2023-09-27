@@ -1,13 +1,12 @@
 ![Header](https://github.com/Humoyun209/humoyun209/blob/master/assets/github1.jpg)
 
-## I'm beginner Youtuber and Django Developer
+## I'm Python WEB Developer
 
 ### Languages and tools
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![DRF](https://img.shields.io/badge/-DjangoRestFramework-090909?style=for-the-badge&logo=DRF)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=selenium)
-![SQL](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgres)
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 
