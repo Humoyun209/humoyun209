@@ -3,11 +3,15 @@
 ## I'm Python WEB Developer
 
 ### Languages and tools
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
+
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi)
+![Aiogram](https://img.shields.io/badge/-Aiogram-090909?style=for-the-badge&logo=Aiogram)
+
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=selenium)
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 
 ### Follow me
