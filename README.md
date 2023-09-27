@@ -9,6 +9,7 @@
 ![DRF](https://img.shields.io/badge/-DRF-090909?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-090909?style=for-the-badge&logo=Aiogram)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-090909?style=for-the-badge&logo=SQLAlchemy)
 
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=selenium)
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
