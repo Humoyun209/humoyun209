@@ -14,7 +14,8 @@
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-fca121?style=for-the-badge&logo=SQLAlchemy)
 
 ## Testing
-![Pytest](https://img.shields.io/badge/-Pytest-009485?style=for-the-badge&logo=Pytest&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-009fe3?style=for-the-badge&logo=Pytest)
+![Selenium](https://img.shields.io/badge/-Selenium-00ae00?style=for-the-badge&logo=Selenium&logoColor=white)
 
 ## Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
