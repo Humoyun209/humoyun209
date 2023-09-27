@@ -13,15 +13,15 @@
 ![Aiogram](https://img.shields.io/badge/-Aiogram-46a2f1?style=for-the-badge&logo=Aiogram)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-fca121?style=for-the-badge&logo=SQLAlchemy)
 
-## Testing
-![Pytest](https://img.shields.io/badge/-Pytest-009fe3?style=for-the-badge&logo=Pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-00ae00?style=for-the-badge&logo=Selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-f76935?style=for-the-badge&logo=Postman&logoColor=white)
-
 ## Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+## Testing
+![Pytest](https://img.shields.io/badge/-Pytest-009fe3?style=for-the-badge&logo=Pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-00ae00?style=for-the-badge&logo=Selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-f76935?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## Front-end
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,7 +32,6 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Router-DOM](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-### Follow me
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/h.ahmedov209/)
+### My Contacts
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedov-humoyun-993895241/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Humoyun209)
-[![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github)](https://github.com/Humoyun209)
