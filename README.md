@@ -6,12 +6,17 @@
 
 
 ## Back-end
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
 ![DRF](https://img.shields.io/badge/-DRF-090909?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-090909?style=for-the-badge&logo=Aiogram)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-090909?style=for-the-badge&logo=SQLAlchemy)
+
+## Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23DD0031.svg?&style=for-the-badge&logo=SQLite&logoColor=white)
 
 ## Front-end
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,10 +26,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Router-DOM](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-
-## Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ### Follow me
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/h.ahmedov209/)
