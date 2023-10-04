@@ -10,7 +10,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-DRF-090909?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
-![Aiogram](https://img.shields.io/badge/-Aiogram-46a2f1?style=for-the-badge&logo=Aiogram)
+![Aiogram](https://img.shields.io/badge/-Aiogram-009cfb?style=for-the-badge&logo=Aiogram)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-fca121?style=for-the-badge&logo=SQLAlchemy)
 
 ## Database
