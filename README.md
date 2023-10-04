@@ -34,4 +34,4 @@
 
 ### My Contacts
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedov-humoyun-993895241/)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Humoyun209)
+[![Telegram](https://img.shields.io/badge/-Telegram-26a1df?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Humoyun209)
