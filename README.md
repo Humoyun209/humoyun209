@@ -12,6 +12,8 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-009cfb?style=for-the-badge&logo=Aiogram)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-fca121?style=for-the-badge&logo=SQLAlchemy)
+![Celery](https://img.shields.io/badge/-Celery-729a31?style=for-the-badge&logo=Celery)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ## Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
