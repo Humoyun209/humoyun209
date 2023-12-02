@@ -14,7 +14,7 @@
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-fca121?style=for-the-badge&logo=SQLAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-729a31?style=for-the-badge&logo=Celery)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%#086ad0.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
